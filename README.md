@@ -1,6 +1,6 @@
-Of course! Here’s a **GitHub README.md** draft for your project, including sections for project description, screenshots, and more:
 
----
+
+# Vikas Dhakad
 
 # 📊 Amazon Sales Dashboard
 
@@ -27,7 +27,7 @@ An interactive and visually rich **Amazon Sales Dashboard** to monitor overall s
 
 ### 1. **Overview Page**
 
-![Overview Page]()
+![Overview Page](https://github.com/vikas98SSS/Amazon_sales_analysis_dashboard/blob/main/Capture1.PNG)
 
 > View all sales data at a glance: overall sales, seller counts, and top-performing cities and states.
 
@@ -35,7 +35,7 @@ An interactive and visually rich **Amazon Sales Dashboard** to monitor overall s
 
 ### 2. **Products Page**
 
-![Products Page](./images/products.png)
+![Products Page](https://github.com/vikas98SSS/Amazon_sales_analysis_dashboard/blob/main/Capture2.PNG)
 
 > Browse all products with images, names, and details in a clean, scrollable gallery.
 
@@ -43,7 +43,7 @@ An interactive and visually rich **Amazon Sales Dashboard** to monitor overall s
 
 ### 3. **Product Detail View**
 
-![Product View]()
+![Product View](https://github.com/vikas98SSS/Amazon_sales_analysis_dashboard/blob/main/Capture1.PNG)
 
 > Dive into detailed product-level analytics, including sales amount, returns, units sold, and customer reviews.
 
@@ -71,33 +71,5 @@ A heartfelt thanks to **Sandeep Sappal Sir** for his proper guidance and continu
 
 ## 🔗 Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/) (Add your link)
-- [GitHub](https://github.com/) (Add your link)
-
----
-
-## ⭐ How to Use
-
-> You can clone/download the project and open the dashboard file in Power BI Desktop (or your specific BI tool).
-
-```bash
-git clone https://github.com/your-username/amazon-sales-dashboard.git
-```
-
-Make sure to replace data source paths if needed!
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-**Note:**  
-✅ Place your project screenshots inside a folder named `/images/` in your GitHub repository.  
-✅ Update the image links (`./images/overview.png`, etc.) according to your actual uploaded images.
-
----
-
-Would you like me to also prepare a version with a "live demo" badge/button if you're planning to host it somewhere like Power BI Service or a web app? 🚀
+- [LinkedIn](https://www.linkedin.com/in/vikas-dhakad-1b5472223/) 
+🚀
