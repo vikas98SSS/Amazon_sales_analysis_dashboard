@@ -43,7 +43,7 @@ An interactive and visually rich **Amazon Sales Dashboard** to monitor overall s
 
 ### 3. **Product Detail View**
 
-![Product View](https://github.com/vikas98SSS/Amazon_sales_analysis_dashboard/blob/main/Capture1.PNG)
+![Product View](https://github.com/vikas98SSS/Amazon_sales_analysis_dashboard/blob/main/Capture3.PNG)
 
 > Dive into detailed product-level analytics, including sales amount, returns, units sold, and customer reviews.
 
